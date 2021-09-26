@@ -1,0 +1,36 @@
+ 
+ @media print
+ {
+   .footer, .editRadio, .checkForm, .btnsShow, .alert, .check, .card-header, #marksTable thead tr th:nth-child(4),
+    #marksTable tbody tr td:nth-child(4), #marksTable thead tr th:nth-child(5), 
+    #marksTable tbody tr td:nth-child(5) {
+   
+      display:none;
+
+   }
+
+   .card {
+
+    border:none !important;
+
+   }
+   #marksTable { 
+     width:75%;
+     margin:auto;
+     text-align:center;
+    }
+
+    #marksTable tbody tr {
+
+      height:25px;
+
+    }
+
+    #marksTable tbody td {
+
+      padding: 5px;
+
+    }
+ 
+
+ }

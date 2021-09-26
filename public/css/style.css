@@ -1,0 +1,39 @@
+button a {
+
+    color:white;
+}
+
+button a:hover {
+
+    color:#dadada;
+    text-decoration:none;
+
+}
+
+body {
+  margin-bottom:50px;
+
+}
+
+.footer {
+
+  height:50px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+
+  }
+
+  .btnsShow {
+      
+    text-align:center;
+  }
+
+  .editRadio {
+   display:inline;
+  }
+ 
